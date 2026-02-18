@@ -22,6 +22,10 @@
   - Mall Customer Spending Class Prediction :
     [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB3_AutoML/Lab3_AutoML.ipynb)
 
+- [LAB4_Clustering](lab/LAB4_Clustering)
+  - Mall Customer Clustering :
+    [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB4_Clustering/Lab4_Clustering.ipynb)
+
 - [LAB5_ObjectDetection](lab/LAB5_ObjectDetection)
   1. Model evaluation image detection with YOLO (Ultralytics Hub) :
      [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_1_ultralyticshub.ipynb)
