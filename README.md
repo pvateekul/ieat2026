@@ -11,13 +11,21 @@
 ## Labs
 
 - [LAB1_Classification](lab/LAB1_Classification)
-  - Pima Indian Diabetes : [![Open In Colab](images/colab-badge.svg)](https://github.com/pvateekul/ieat2026/blob/main/lab/LAB1_Classification/Lab1_Pima_Diabetes.ipynb)
+  - Pima Indian Diabetes :
+    [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB1_Classification/Lab1_Pima_Diabetes.ipynb)
+
 - [LAB2_Regression](lab/LAB2_Regression)
-  - Body Fat Prediction : [![Open In Colab](images/colab-badge.svg)](lab/LAB2_Regression/Lab2_BodyFat.ipynb)
+  - Body Fat Prediction :
+    [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB2_Regression/Lab2_BodyFat.ipynb)
+
 - [LAB3_AutoML](lab/LAB3_AutoML)
-  - Mall Customer Spending Class Prediction :[![Open In Colab](images/colab-badge.svg)](lab/LAB3_AutoML/Lab3_AutoML.ipynb)
-- [LAB4_Clustering](lab/LAB4_Clustering)
+  - Mall Customer Spending Class Prediction :
+    [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB3_AutoML/Lab3_AutoML.ipynb)
+
 - [LAB5_ObjectDetection](lab/LAB5_ObjectDetection)
-  1. Model evaluation image detection with YOLO (Ultralytics Hub) :[![Open In Colab](images/colab-badge.svg)](lab/LAB5_ObjectDetection/Lab_5_1_ultralyticshub.ipynb)
-  2. Image detection with YOLO (Ultralytics) :[![Open In Colab](images/colab-badge.svg)](lab/LAB5_ObjectDetection/Lab_5_2_ultralytics.ipynb)
-  3. Pose estimation with YOLO (extra) : [![Open In Colab](images/colab-badge.svg)](lab/LAB5_ObjectDetection/Pose_YOLO.ipynb)
+  1. Model evaluation image detection with YOLO (Ultralytics Hub) :
+     [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_1_ultralyticshub.ipynb)
+  2. Image detection with YOLO (Ultralytics) :
+     [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_2_ultralytics.ipynb)
+  3. Pose estimation with YOLO (extra) :
+     [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Pose_YOLO.ipynb)
