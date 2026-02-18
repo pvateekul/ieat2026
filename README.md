@@ -1,10 +1,7 @@
 # IEAT | Big Data & AI Analytics Training Program
 
-<p>
-  <img src="https://github.com/pvateekul/ieat2026/blob/main/images/knime-logo.png?raw=true" width="180" alt="KNIME" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/pvateekul/ieat2026/blob/main/images/ultralytics-logo.png?raw=true" width="180" alt="Ultralytics" />
-</p>
+<img src="images/knime-logo.png" width="180" alt="KNIME" />
+<img src="images/ultralytics-logo.png" width="180" alt="Ultralytics" />
 
 ## Links
 
