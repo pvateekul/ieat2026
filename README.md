@@ -27,9 +27,9 @@
     [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB4_Clustering/Lab4_Clustering.ipynb)
 
 - [LAB5_ObjectDetection](lab/LAB5_ObjectDetection)
-  - 0. Model Training :
-       [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_0_ModelTraining.ipynb)
-  - 1. Model evaluation image detection with YOLO (Ultralytics) :
-       [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_1_ultralyticshub.ipynb)
-  - 2. Image detection with YOLO (Ultralytics) :
-       [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_2_ultralytics.ipynb)
+  - Model Training :
+    [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_0_ModelTraining.ipynb)
+  - Model evaluation image detection with YOLO (Ultralytics) :
+    [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_1_ultralyticshub.ipynb)
+  - Image detection with YOLO (Ultralytics) :
+    [![Open In Colab](images/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/ieat2026/blob/main/lab/LAB5_ObjectDetection/Lab_5_2_ultralytics.ipynb)
